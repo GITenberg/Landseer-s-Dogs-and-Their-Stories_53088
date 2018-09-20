@@ -1,0 +1,38 @@
+_repo: Landseer-s-Dogs-and-Their-Stories_53088
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Landseer, Edwin Henry, Sir
+    aliases:
+    - Landseer, Sir Edwin Henry
+    - Landseer
+    birthdate: 1802
+    deathdate: 1873
+    gutenberg_agent_id: '38928'
+    url: http://www.gutenberg.org/2009/agents/38928
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Henry_Landseer
+creator:
+  author:
+    agent_name: Tytler, Sarah
+    aliases:
+    - Tytler, Sara
+    - Keddie, Henrietta
+    birthdate: 1827
+    deathdate: 1914
+    gutenberg_agent_id: '2248'
+    url: http://www.gutenberg.org/2009/agents/2248
+description: ''
+gutenberg_issued: '2016-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Landseer's Dogs and Their Stories
+url: http://www.gutenberg.org/ebooks/53088
